@@ -4,16 +4,17 @@ Settings for my hardware, etc.
 
 ## Arturia Beatstep
 
-The `arturia-beatstep` directory has the settings I use in MIDI Control Center to program my beatstep. I set it up in this order in the memory banks:
+The `arturia-beatstep` directory has the settings I use in MIDI Control Center to program my beatstep. I set it up in this order in the memory banks (all with c as root note):
 
 1. split-ionian-cmaj-i
-2. split-aeolian-amin-vi
-3. split-dorian-d-ii
-4. split-phyrgian-e-iii
-5. split-lydian-f-iv
-6. split-mixolydian-g-v
-7. split-locrian-b-vii
+2. split-aeolian-cmin-vi
+3. split-dorian-ii
+4. split-phrygian-iii
+5. split-lydian-iv
+6. split-mixolydian-v
+7. split-locrian-vii
 8. roland
+9. gm
 
 The split ones are left half drums based on bitwig's drum mapping, right half the notes of the scale:
 
@@ -23,7 +24,7 @@ The split ones are left half drums based on bitwig's drum mapping, right half th
 
 The notes are on channel 2, the drums are on channel 1. These are best used with [my modified beatstep controller script](https://github.com/thomasjwebb/Bitwig-ArturiaBeatstep) to allow each channel its own input.
 
-Roland is on channel 10 per Roland's weirdness and its GM mappings, with the last 3 columns unused:
+Roland is on channel 10 per Roland's weirdness and its GM mappings, with the last 3 columns unused (gm is same but channel 1):
 
 | hi-tom  | mid-tom | low-tom | crash   | crash 2  |
 |---------|---------|---------|---------|----------|
