@@ -20,7 +20,7 @@ The split ones are left half drums based on bitwig's drum mapping, right half th
 | hi-tom  | mid-tom | low-tom | crash   | II       | IV      | VI      | VII     |
 | bass    | snare   | cld hh  | open hh | I        | III     | V       | VI      |
 
-The notes are on channel 2, the drums are on channel 1. These are best used with [my modified beatstep controller script](https://github.com/thomasjwebb/BeatstepProController) to allow each channel its own input.
+The notes are on channel 2, the drums are on channel 1. These are best used with [my modified beatstep controller script](https://github.com/thomasjwebb/Bitwig-ArturiaBeatstep) to allow each channel its own input.
 
 Roland is on channel 10 per Roland's weirdness and its GM mappings, with the last 3 columns unused:
 
