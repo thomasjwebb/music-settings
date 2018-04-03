@@ -1,0 +1,10 @@
+{
+	name : "beatstep-project",
+	author : pinkboi,
+	category : Template,
+	description : "My default project for use with beatstep's awesomeness",
+	url : "https://github.com/thomasjwebb/music-settings",
+	tags : beatstep,
+	show_welcome_screen : false,
+	creation_date : 1522731822453
+}

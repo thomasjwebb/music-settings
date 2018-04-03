@@ -29,3 +29,12 @@ Roland is on channel 10 per Roland's weirdness and its GM mappings, with the las
 | hi-tom  | mid-tom | low-tom | crash   | crash 2  |
 |---------|---------|---------|---------|----------|
 | bass    | snare   | cld hh  | open hh | ride cym |
+
+## Bitwig Projects
+
+Trying to come up with the best starting points to make it easy based on my Arturia beatstep + APC Keys 25 setup and share it with anyone else.
+
+Update from local settings with:
+
+    cp -R ~/Documents/Bitwig\ Studio/Library/Templates/beatstep-project.bwtemplate bitwig-templates/
+
