@@ -18,6 +18,7 @@ The `arturia-beatstep` directory has the settings I use in MIDI Control Center t
 The split ones are left half drums based on bitwig's drum mapping, right half the notes of the scale:
 
 | hi-tom  | mid-tom | low-tom | crash   | II       | IV      | VI      | VII     |
+|---------|---------|---------|---------|----------|---------|---------|---------|
 | bass    | snare   | cld hh  | open hh | I        | III     | V       | VI      |
 
 The notes are on channel 2, the drums are on channel 1. These are best used with [my modified beatstep controller script](https://github.com/thomasjwebb/Bitwig-ArturiaBeatstep) to allow each channel its own input.
