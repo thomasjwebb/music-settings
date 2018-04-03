@@ -26,4 +26,5 @@ The notes are on channel 2, the drums are on channel 1. These are best used with
 Roland is on channel 10 per Roland's weirdness and its GM mappings, with the last 3 columns unused:
 
 | hi-tom  | mid-tom | low-tom | crash   | crash 2  |
+|---------|---------|---------|---------|----------|
 | bass    | snare   | cld hh  | open hh | ride cym |
